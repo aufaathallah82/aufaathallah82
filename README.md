@@ -1,5 +1,7 @@
-### Hi there 👋
+![linkedin bg](https://user-images.githubusercontent.com/64890776/190173291-f2435c12-5d79-42de-a728-2aeaaf853312.jpg)
 
+### Hi there 😊
+I'm a 25-year-old from Indonesia, who loves analyzing and intersted in quality engineer. I mainly code in Java, but I am always learning.
 
 - 🔭 I’m currently working on ... API Automation script
 - 🌱 I’m currently learning ... Web Automation and API Automation
